@@ -2,7 +2,7 @@
 Distributed Encrypted NostrID-based Messaging Sysem
 
 
-# 🎉 DENMS v0.92 (ALPHA)- Release Notes (Updated)
+# 🎉 DENMS v0.93 (ALPHA)- Release Notes (Updated)
 
 **Release Date:** February 15, 2026  
 **Status:** ✅ STABLE - All Features Working  
