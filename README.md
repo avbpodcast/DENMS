@@ -10,7 +10,7 @@ Distributed Encrypted NostrID-based Messaging Sysem
 
 ---
 
-## 🔐 Cryptographic Stack (v0.92)
+## 🔐 Cryptographic Stack (v0.93)
 
 ### **Hybrid Post-Quantum Encryption**
 
